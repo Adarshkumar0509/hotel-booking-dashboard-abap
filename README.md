@@ -62,10 +62,6 @@ I've hardcoded 12 sample bookings covering:
 
 In a real system you'd replace `load_demo_data()` with actual SELECT statements from your booking tables.
 
-## Screenshots
-
-(will add once I capture them from the SAP GUI)
-
 ## Learnings
 
 - First time using CL_GUI_ALV_GRID properly
